@@ -13,3 +13,20 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Ignore DS_Store
+.DS_Store
+
+# Ignore RVM
+.ruby-version
+.ruby-gemset
+
+# Ignore RubyMine
+.idea
+
+# Emacs auto-save
+*~
+
+# Eclipse
+.buildpath
+.project
